@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.navBar {
+  margin: auto;
+  text-align: center;
+  font-size: 2rem;
+}
+.navBar-list {
+  color: black;
+}
+
+.navBar-item {
+  display: inline-block;
+  padding: 1rem;
+}
